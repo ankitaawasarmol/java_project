@@ -1,0 +1,10 @@
+Êþº¾   = %  com/amit/aws/DemoApplication  java/lang/Object <init> ()V Code
+  	   LineNumberTable LocalVariableTable this Lcom/amit/aws/DemoApplication; home ()Ljava/lang/String; RuntimeVisibleAnnotations 4Lorg/springframework/web/bind/annotation/GetMapping; value /  +Welcome to the SpringbootApplication in aws main ([Ljava/lang/String;)V
+    *org/springframework/boot/SpringApplication   run b(Ljava/lang/Class;[Ljava/lang/String;)Lorg/springframework/context/ConfigurableApplicationContext; args [Ljava/lang/String; MethodParameters 
+SourceFile DemoApplication.java >Lorg/springframework/boot/autoconfigure/SpringBootApplication; 8Lorg/springframework/web/bind/annotation/RestController; !               /     *· ±    
+       
+                        [ s     -     °    
+                    	       6     *¸ W±    
+   
+                            !    "    
+  #   $  
